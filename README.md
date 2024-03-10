@@ -39,3 +39,5 @@ This case study aims to identify patterns that indicate if a client has difficul
 
 In other words, the company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables that are strong indicators of default. The company can utilize this knowledge for its portfolio and risk assessment.
 
+#### Note: Download the dataset from the link below.  
+https://drive.google.com/open?id=16RQztUqCfJOlbooHqYlJrp6Q7iL65uZB
